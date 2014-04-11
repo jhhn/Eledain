@@ -8,6 +8,8 @@ package eledian.monsters;
  *
  * @author James
  */
+
+/* A Rat */
 public class Rat {
     
 }
