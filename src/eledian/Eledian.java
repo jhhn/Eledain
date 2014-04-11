@@ -16,6 +16,6 @@ public class Eledian {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        /* All of it? */
+        /* All of it, I suppose. */
     }
 }
